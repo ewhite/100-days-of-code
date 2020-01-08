@@ -11,3 +11,22 @@
 have a fully custom set up for the first time.
 
 **Link to work:** [100 Days of Code homepage](https://github.com/ewhite/100-days-of-code)
+
+### Day 1: Tuesday, January 7th, 2020
+**Today's Progress**: Researched Google Home API and Google Actions API. 
+Forked and tried (and failed) to get some prebuilt Smart Home actions 
+running.
+
+**Thoughts:** There is a lot involved in Google's deployment 
+infrastructure. The whole Google Cloud Suite is unfamiliar to me, and 
+although I had hoped to accomplish more today, I'm beginning to realize
+that using this new stack will consume a not insignificant portion of
+my time. We'll see, I suppose. I'm eager to do some actual coding.
+
+**Goals for tomorrow:**
+1. Either get something working with the prebuilt smart home actions or
+create a minimal setup of my own talking with Google's servers.
+
+**Links to work:** 
+[100 Days of Code homepage](https://github.com/ewhite/100-days-of-code)
+[smart-home-nodejs repo](https://github.com/ewhite/smart-home-nodejs)
