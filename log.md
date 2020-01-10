@@ -1,4 +1,37 @@
 # 100 Days Of Code - Log
+### Day 3: Thursday, January 9th, 2020
+**Today's Progress**: Today was split between learning more about 
+Google Cloud Functions/Firebase/Dialogflow and between some actual
+coding/API sniffing for Personal Capital. Since I've decided to 
+attempt creating an interaction which can check your Personal Capital
+account balance for you, I spent some time examining the network 
+traffic on their site. I am painstakingly translating what I see there
+into Javascript code. I have completed about 1/2 of the login flow 
+currently.
+
+**Notes:** 
+1. I'm not doing the above task alone. I found a 
+[Github repo](https://github.com/haochi/personalcapital) that has
+been an _amazing_ starting point. 
+
+**Thoughts:** I am enjoying learning more about Google's cloud suite.
+It's nice to see a contrasting approach to Docker, and Firebase's 
+ability to run `firebase deploy` and have everything just work is
+super cool for rapid pace development like this project. Cracking 
+Personal Capital's API is a new experience for me, and at least for 
+now I think it is going well.
+
+**Goals for tomorrow:**
+1. Get an integration test up and running for the Personal Capital 
+API object that I'm building.
+
+2. Test log in flow for hardcoded username and password.
+
+**Links to work:** 
+
+[100 Days of Code homepage](https://github.com/ewhite/100-days-of-code)
+
+[dialogflow-fulfillment](https://github.com/ewhite/dialogflow-fulfillment)
 
 ### Day 2: Wednesday, January 8th, 2020
 **Today's Progress**: Got my first custom Google assistant intent &
@@ -34,8 +67,10 @@ catch my attention first.
 Current idea is an automated way to check my PersonalCapital account
 balances/trends since I do that often.
 
-**Link to work:** 
+**Links to work:** 
+
 [100 Days of Code homepage](https://github.com/ewhite/100-days-of-code)
+
 [dialogflow-fulfillment](https://github.com/ewhite/dialogflow-fulfillment)
 
 
@@ -55,7 +90,9 @@ my time. We'll see, I suppose. I'm eager to do some actual coding.
 create a minimal setup of my own talking with Google's servers.
 
 **Links to work:** 
+
 [100 Days of Code homepage](https://github.com/ewhite/100-days-of-code)
+
 [smart-home-nodejs repo](https://github.com/ewhite/smart-home-nodejs)
 
 ### Day 0: Monday, January 6th, 2020
