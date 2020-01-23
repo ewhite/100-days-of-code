@@ -1,4 +1,25 @@
 # 100 Days Of Code - Log
+
+### Day 0: Wednesday, January 22, 2020
+**Today's Progress**: Today I spent the entire day sleuthing around
+the Omaha Metro Bus Tracker website. I'm glad to report that I was
+able to find (and immediately) profit from their API calls. Now
+that I've determined they have no security and also no session,
+I have verified that my dream of having my phone buzz when the bus
+is on the way could _actually_ happen.
+
+
+**Thoughts:** This was my first reverse-engineering of an API that
+I've done by myself. I was inspired by the Personal Capital 
+API that I found for my first HDOC failure below. That said,
+this looks way easier than that one looks.
+
+**Goals for tomorrow:**
+1. Get first draft of websocket created which can push updates
+for the #2 bus line to consumers.
+
+### First attempt below
+
 ### Day 3: Thursday, January 9th, 2020
 **Today's Progress**: Today was split between learning more about 
 Google Cloud Functions/Firebase/Dialogflow and between some actual
