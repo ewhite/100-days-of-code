@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 1: Monday, January 27, 2020
+
+**Today's Progress:** I formalized the code I currently have 
+which is calling the metro api and began the process of abstracting
+away the details of that API. I also selected a license, added the
+project to github, and did some quality of life improvements 
+on the project itself.
+
+**Goals for tomorrow:**
+1. I'd still like to get the code running on a websocket.
+2. I'd like to have the details of my first bus stop & route
+hard-coded in (e.g. route: "number 2", stop: "112") so I have
+something with which to get started.
+
 ### Day 0: Wednesday, January 22, 2020
 **Today's Progress**: Today I spent the entire day sleuthing around
 the Omaha Metro Bus Tracker website. I'm glad to report that I was
