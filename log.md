@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 2: Tuesday, January 28, 2020
+
+**Today's Progress:** I created a simple socket connection to
+my local server from a static HTML page. Since I'm probably 
+going to create the app in React Native, I'm thinking that
+I should be able to reuse this socket logic in the app itself.
+
+**Goals for tomorrow:**
+1. Get the websocket to return the minutes from now of the #2
+bus route (e.g. "2 minutes from now") instead of the estimated
+arrival timestamp (e.g. "2020-01-28T12:45:00").
+
+2. Add the capacity for the connected user/app to specify which
+route number for which they care to receive updates.
+
 ### Day 1: Monday, January 27, 2020
 
 **Today's Progress:** I formalized the code I currently have 
