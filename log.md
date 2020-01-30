@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 3: Tuesday, January 29, 2020
+
+**Today's Progress:** I got the UI to statically state the 
+route it would like to know about (in this case, the #2), and
+the server now responds with the time from now at which the 
+bus will arrive (e.g. "2 minutes from now") Stop id is still 
+hard-coded. I also added a `yarn start:watch` which 
+automatically updates the server on changes in the source
+directories. Finally, I upgraded the logging on the project.
+
+**Goals for tomorrow:**
+1. Deploy the server via anything that seems easy. I've some
+experience with Droplets from Digital Ocean, but it may be
+easier to use something like Firebase.
+
 ### Day 2: Tuesday, January 28, 2020
 
 **Today's Progress:** I created a simple socket connection to
